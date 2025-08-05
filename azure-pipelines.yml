@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: DESKTOP-FLH9D6M
+  name: Default
 
 steps:
 - script: echo Hello, world!
