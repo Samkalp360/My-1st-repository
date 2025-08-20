@@ -1,2 +1,7 @@
-# 12th-repo
-12th-repo-created
+
+# My-1st-repository
+Trial by mobile 
+python3 -m venv venv
+source venv/bin/activate
+//////
+
